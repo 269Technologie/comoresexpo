@@ -9,7 +9,6 @@
       "favicon": "./assets/comoresexpo.jpeg",
       "name": "ComoresExpo",
       "shortName": "ComoresExpo"
-    }
     },
     "ios": {
       "supportsTablet": true
@@ -21,9 +20,6 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
