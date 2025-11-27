@@ -4,14 +4,11 @@ export default function MaintenancePage() {
   return (
     <div style={{
       minHeight: '100vh',
-      width: '100vw',
       background: 'linear-gradient(to bottom right, #EFF6FF, #E0E7FF)',
       display: 'flex',
       alignItems: 'center',
       justifyContent: 'center',
-      padding: '16px',
-      margin: 0,
-      boxSizing: 'border-box'
+      padding: '16px'
     }}>
       <div style={{ maxWidth: '768px', width: '100%' }}>
         <div style={{
@@ -23,7 +20,7 @@ export default function MaintenancePage() {
           {/* Logo */}
           <div style={{ textAlign: 'center', marginBottom: '32px' }}>
             <img 
-              src="https://comoresexpo.com/wp-content/uploads/2024/01/logo-comores-expo-2024.png"
+              src="/assets/comoresexpo.jpeg"
               alt="ComoresExpo Logo" 
               style={{
                 margin: '0 auto',
